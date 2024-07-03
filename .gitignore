@@ -1,0 +1,8 @@
+# Ignore everthing
+*
+
+# But not these files
+!.gitignore
+!requirements.txt
+!merge_excel.py
+!README.md
